@@ -5,3 +5,5 @@ chart applicaation
 +keyboard
 +media 
 +payment
++upi
++document
