@@ -3,3 +3,5 @@ chart applicaation
 +emojis
 +gif
 +keyboard
++media 
++payment
